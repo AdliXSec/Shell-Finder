@@ -5,6 +5,7 @@ Alfa.php
 mini.php
 up.php
 dcs.php
+DCS.php
 b374k.php
 idx.php
 shel.php

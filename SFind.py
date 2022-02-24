@@ -1,5 +1,6 @@
 #----------------------------------------
-# Author : AdliXSec
+# Author  : AdliXSec
+# Version : v2.0
 # Github  : https://github.com/AdliXSec
 #----------------------------------------
 import marshal

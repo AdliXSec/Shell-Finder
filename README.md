@@ -1,4 +1,4 @@
-### Shell Finder v2.0
+# Shell Finder v2.0
 
 ## Tutorial 
 
